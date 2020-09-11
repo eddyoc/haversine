@@ -22,6 +22,7 @@
   "author": "Nick Justice (niix)",
   "license": "MIT",
   "devDependencies": {
-    "mocha": "*"
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
   }
 }
